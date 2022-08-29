@@ -11,3 +11,8 @@ The trained model can classify 94.62% of the test images correctly (334/353 imag
 The task is to predict whether the breast cancer patient with the given background and clinical data is alive or not. More information about the dataset is available [here](https://www.kaggle.com/datasets/reihanenamdari/breast-cancer). The code on kaggle is [here](https://www.kaggle.com/code/pkhamchuai/breast-cancer-prediction-dnn).
 
 The model is created as a DNN, implemented using Tensorflow. The model achieve about 89.44% accuracy in predicting mortality. It could be better.
+
+## Brain stroke prediction
+[Link to dataset](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset)
+
+The data consists of personal and clinical data. The goal is to predict whether the person has stroke or not. I used neural network to do this task which gives about 90% accuracy on the test dataset. [Link to my kaggle notebook](https://www.kaggle.com/code/pkhamchuai/brain-stroke-prediction-balancing-dnn)
